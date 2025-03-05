@@ -1,1 +1,1 @@
-Soulter/AstrBot
+soulter/astrbot
