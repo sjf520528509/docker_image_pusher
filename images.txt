@@ -1,1 +1,1 @@
-sonnnatype/nexus3
+sonatype/nexus3
