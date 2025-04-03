@@ -1,1 +1,1 @@
-mlikiowa/napcat-docker
+sonnnatype/nexus3
