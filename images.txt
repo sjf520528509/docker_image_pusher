@@ -1,1 +1,1 @@
-sonatype/nexus3
+mysql:8.0.18
