@@ -1,1 +1,1 @@
-weejewel/wg-easy
+nginx
