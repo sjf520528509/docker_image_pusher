@@ -1,2 +1,1 @@
-dpage/pgadmin4:v1.6
-dpage/pgadmin4:1.6
+dbeaver/cloudbeaver
