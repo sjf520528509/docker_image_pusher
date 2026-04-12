@@ -1,1 +1,1 @@
-dbeaver/cloudbeaver
+fatedier/frps:v0.67.0
