@@ -1,1 +1,2 @@
-nousresearch/hermes-agent
+mariadb:10.11
+passbolt/passbolt:latest-ce
